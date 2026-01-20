@@ -1,7 +1,0 @@
-{
-  "name": "ReleaseMate - Pro Model Release Manager",
-  "description": "A professional digital model release platform designed for tablets and desktops. Easily create projects, collect signed releases with age verification, and manage legal documentation on the go.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
